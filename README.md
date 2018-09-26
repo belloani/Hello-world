@@ -1,2 +1,3 @@
 # Hello-world
-Ideas nd notes
+Ideas and notes
+This is about me - Ani Bello
